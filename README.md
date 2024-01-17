@@ -1,16 +1,10 @@
-# VulcaBasePack
+# VulcaPack
 
-* SpectateEnemies
-* LateCompany
-* FlashlightToggle
-* MoreCompany
-* Helmet_Cameras
-* LCBetterSaves
-* AdditionalSuits
-* More_Suits
-* SuitSaver
-* More_Emotes
-* TooManyEmotes
-* LCItemValue
-* ShipLoot
-* LethalCompanyVariables
+* LethalExpansionCore
+* Kast
+* Ducks_Moons
+* CoomfyDungeon
+* ReservedFlashlightSlot
+* Maxwell_ScrapItem
+* PushCompany
+* VulcaBasePack
