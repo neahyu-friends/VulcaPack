@@ -1,0 +1,16 @@
+{
+    "name": "VulcaPack",
+    "version_number": "",
+    "website_url": "https://github.com/neahyu-friends/VulcaPack",
+    "description": "Take my modpack",
+    "dependencies": [
+		"jockie-LethalExpansionCore-1.3.14",
+		"Ceelery-Kast-1.0.3",
+		"FireNoobsta-Ducks_Moons-1.1.3",
+		"Coomfy-CoomfyDungeon-1.0.12",
+		"FlipMods-ReservedFlashlightSlot-1.5.10",
+		"Kittenji-Maxwell_ScrapItem-1.0.1",
+		"Midge-PushCompany-1.2.0",
+		"neahyu_friends-VulcaBasePack-1.0.5"
+    ]
+}
