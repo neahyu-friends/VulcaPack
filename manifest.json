@@ -4,14 +4,21 @@
     "website_url": "https://github.com/neahyu-friends/VulcaPack",
     "description": "Take my modpack",
     "dependencies": [
-		"jockie-LethalExpansionCore-1.3.15",
-		"Ceelery-Kast-1.0.3",
-		"FireNoobsta-Ducks_Moons-1.1.3",
+		"neahyu_friends-VulcaBasePack-2.1.0",
 		"Coomfy-CoomfyDungeon-1.0.12",
 		"FlipMods-ReservedFlashlightSlot-2.0.5",
-		"Kittenji-Maxwell_ScrapItem-1.0.1",
+		"FlipMods-ReservedWalkieSlot-2.0.5",
 		"Midge-PushCompany-1.2.0",
 		"qwbarch-Mirage-1.7.3",
-		"neahyu_friends-VulcaBasePack-2.0.2"
+		"KodiCraft-TermSpeak-1.1.0",
+		"Uprank-Rush_Of_Adrenaline-1.0.0",
+		"Caseuhdeeyuh-MolesterLootBug-1.1.0",
+		"SimonTendo-LCLegDayMod-2.2.4",
+		"CTMods-KarmaForBeingAnnoying-1.1.0",
+		"Suskitech-AlwaysHearActiveWalkies-1.4.5",
+		"TanmanG-Forest_Giant_Motionsense-1.0.2",
+		"LegoMaster3650-FairGiants-1.1.1",
+		"Yoshify-DiscJockey-1.2.1",
+		"neahyu_friends-PreventLoosingScrap-1.0.2"
     ]
 }
