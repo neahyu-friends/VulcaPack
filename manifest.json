@@ -4,20 +4,20 @@
     "website_url": "https://github.com/neahyu-friends/VulcaPack",
     "description": "Take my modpack",
     "dependencies": [
-		"neahyu_friends-VulcaBasePack-2.1.1",
+		"neahyu_friends-VulcaBasePack-2.2.0",
 		"Coomfy-CoomfyDungeon-1.0.12",
-		"FlipMods-ReservedFlashlightSlot-2.0.5",
-		"FlipMods-ReservedWalkieSlot-2.0.5",
+		"FlipMods-ReservedFlashlightSlot-2.0.8",
+		"FlipMods-ReservedWalkieSlot-2.0.6",
 		"Midge-PushCompany-1.2.0",
-		"qwbarch-Mirage-1.7.3",
+		"qwbarch-Mirage-1.10.0",
 		"Uprank-Rush_Of_Adrenaline-1.0.0",
 		"Caseuhdeeyuh-MolesterLootBug-1.1.0",
-		"SimonTendo-LCLegDayMod-2.2.4",
+		"SimonTendo-LCLegDayMod-2.3.0",
 		"CTMods-KarmaForBeingAnnoying-1.1.0",
-		"TanmanG-Forest_Giant_Motionsense-1.0.2",
-		"LegoMaster3650-FairGiants-1.1.1",
+		"TanmanG-Forest_Giant_Motionsense-1.0.3",
+		"LegoMaster3650-FairGiants-1.1.2",
 		"Yoshify-DiscJockey-1.2.1",
-		"Zingar-Atlas_Abyss-1.1.8",
+		"Zingar-Atlas_Abyss-1.2.3",
 		"neahyu_friends-PreventLoosingScrap-1.0.2"
     ]
 }
